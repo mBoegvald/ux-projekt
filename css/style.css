@@ -22,3 +22,7 @@
 #prototype_pic {
     width: 70vw;
 }
+
+#keaapp img {
+    max-width: 20vw;
+}
